@@ -18,6 +18,7 @@ namespace codewars3
         }
         public static void Main()
         {
+            Console.WriteLine("dziwne ciagi");
             string a = "asdfththhhuyktyjk";
             string b = "asdfththhbbbgjkuyiouyoqwrewgnhuyktyhhhiooopplqqaszxcjk";
             Console.WriteLine(Longest(a, b));
