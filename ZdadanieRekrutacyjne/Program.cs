@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleCalculator
 {
-    public class Calculator
     {
+    public class Calculator
         static void Main(string[] args)
         {
         }
-
         public int Add(int a, int b)
         {
             try
@@ -28,7 +27,7 @@ namespace ConsoleCalculator
             }
         }
 
-        public int Substract(int a, int b)
+        public int Substract(int a,int b)
         {
             try
             {
