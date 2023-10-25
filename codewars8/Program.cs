@@ -27,7 +27,6 @@ namespace codewars8
                     NumerTelefonu.Append("-");
                 }
             }
-
             return NumerTelefonu.ToString();
         }
     }
