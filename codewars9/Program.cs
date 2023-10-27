@@ -27,9 +27,10 @@ namespace Solution
                     liczba = seq[i];
                 }
             }
+            Console.WriteLine(liczba);
             return liczba;
         }
-
+        
     }
 }
 
