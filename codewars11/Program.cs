@@ -26,7 +26,7 @@ namespace codewars11
             case 3:
                     polubienia.Append(name[0] + ", " + name[1]+ " and "+ name[2] + " like this");
                     break;
-            case 4:
+            default:
 
                     polubienia.Append($"{name[0]}, {name[1]} and {name.Length-2}" + " others like this");
                     break;
