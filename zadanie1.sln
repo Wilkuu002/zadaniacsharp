@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codewars13", "codewars13\co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codewars14", "codewars14\codewars14.csproj", "{3EDAB41C-C956-464D-8DAB-F85ACDEA251D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codewars15", "codewars15\codewars15.csproj", "{942DE0A7-876B-4A6E-B62F-E8D46A5CD52B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3EDAB41C-C956-464D-8DAB-F85ACDEA251D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EDAB41C-C956-464D-8DAB-F85ACDEA251D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EDAB41C-C956-464D-8DAB-F85ACDEA251D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942DE0A7-876B-4A6E-B62F-E8D46A5CD52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942DE0A7-876B-4A6E-B62F-E8D46A5CD52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942DE0A7-876B-4A6E-B62F-E8D46A5CD52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942DE0A7-876B-4A6E-B62F-E8D46A5CD52B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
